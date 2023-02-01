@@ -4,7 +4,8 @@
 
 Recibo invitación para colaborar en el trabajo de Diego.
 
-![image-20230201095853993](C:\Users\viesc\AppData\Roaming\Typora\typora-user-images\image-20230201095853993.png)
+![](./assets/image-20230201100803401.png)
 
 
 
+![image-20230201110112451](./assets/image-20230201110112451.png)
