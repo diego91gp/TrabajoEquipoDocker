@@ -13,3 +13,6 @@ Trabajo en equipo de la tarea evaluable Docker para despliegue.
 
 
 
+## Creamos la estructura de trabajo en Git
+
+![image-20230201105422319](./assets/image-20230201105422319.png)
