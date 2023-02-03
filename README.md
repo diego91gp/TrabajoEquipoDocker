@@ -16,3 +16,14 @@ Trabajo en equipo de la tarea evaluable Docker para despliegue.
 ## Creamos la estructura de trabajo en Git
 
 ![image-20230201105422319](./assets/image-20230201105422319.png)
+
+
+
+
+
+
+
+
+### Autor: Diego Gutierrez Pilar
+### Autor: Javier Viesca
+<img width="200px" src="https://co2asturias.es/wp-content/uploads/2021/06/CIFP-sectores-industrial-servicios-logo.png">
