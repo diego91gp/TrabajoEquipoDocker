@@ -1,5 +1,6 @@
 # Trabajo Equipo Docker Javi-Diego
 Trabajo en equipo de la tarea evaluable Docker para despliegue.
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/07/1_AUiK5PwnsPG_xaT9jcVoSA-2.jpeg">
 ### <a href="https://github.com/users/diego91gp/projects/1/views/1">RoadMap de trabajo</a>
 
 ## Enlaces a los Ejercicios Finalizados
