@@ -8,22 +8,22 @@ Trabajo en equipo de la tarea evaluable Docker para despliegue.
  
 </ul>
 
-## Repartimos el trabajo
+## Dia 1 Repartimos el trabajo
 
 
 ![image-20230201102442351](assets/image-20230201102442351.png)
 
-## Decidimos trabajar como colaboradores
+## Dia 1 Decidimos trabajar como colaboradores
 
 ![image-20230201104109103](assets/image-20230201104109103.png)
 
 
 
-## Creamos la estructura de trabajo en Git
+## Dia 1 Creamos la estructura de trabajo en Git
 
 ![image-20230201105422319](./assets/image-20230201105422319.png)
 
-
+## Dia 2 
 
 
 
