@@ -2,7 +2,7 @@
 Trabajo en equipo de la tarea evaluable Docker para despliegue.
 
 <ul>
-  <li><a href="main/Ejercicio1/Diego/README.md">Ejercicio 1</a></li>
+  <li><a href="Ejercicio1/Diego/README.md">Ejercicio 1</a></li>
  
 </ul>
 
