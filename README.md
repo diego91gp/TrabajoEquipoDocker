@@ -1,5 +1,7 @@
 # Trabajo Equipo Docker Javi-Diego
 Trabajo en equipo de la tarea evaluable Docker para despliegue.
+<a href="https://github.com/users/diego91gp/projects/1/views/1">RoadMap de trabajo</a>
+
 
 <ul>
   <li><a href="Ejercicio1/Diego">Ejercicio 1</a></li>
@@ -8,7 +10,6 @@ Trabajo en equipo de la tarea evaluable Docker para despliegue.
 
 ## Repartimos el trabajo
 
-<a href="https://github.com/users/diego91gp/projects/1">Tablón de trabajo</a>
 
 ![image-20230201102442351](assets/image-20230201102442351.png)
 
