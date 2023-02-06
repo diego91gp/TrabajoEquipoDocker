@@ -6,7 +6,9 @@ Trabajo en equipo de la tarea evaluable Docker para despliegue.
 ## Enlaces a los Ejercicios Finalizados
 <ul>
   <li><a href="Ejercicio1/Diego">Ejercicio 1</a></li>
+  <li><a href="Ejercicio3/">Ejercicio 3</a></li>
 </ul>
+
 
 ## Dia 1 Repartimos el trabajo
 
@@ -38,6 +40,16 @@ Trabajo en equipo de la tarea evaluable Docker para despliegue.
 ![image-20230203114603463](./assets/image-20230203114603463.png)
 
 
+
+### Dia 3. Mergeamos el Ejercicio3 a la rama principal y completamos el Issue.
+
+![image-20230206174704680](./assets/image-20230206174704680.png)
+
+![image-20230206174816974](./assets/image-20230206174816974.png)
+
+
+
 ### Autor: Diego Gutiérrez Pilar
+
 ### Autor: Javier Viesca
 <img width="200px" src="https://co2asturias.es/wp-content/uploads/2021/06/CIFP-sectores-industrial-servicios-logo.png">
