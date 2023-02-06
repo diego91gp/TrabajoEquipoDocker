@@ -6,7 +6,7 @@ Trabajo en equipo de la tarea evaluable Docker para despliegue.
 ## Enlaces a los Ejercicios Finalizados
 <ul>
   <li><a href="Ejercicio1/Diego">Ejercicio 1</a></li>
-  <li>Ejercio 2
+  <li><a href="Ejercicio2/">Ejercio 2</a>
   	<ul><a href="Ejercicio2/Portainer">Portainer</a></ul>
     <ul><a href="Ejercicio2/MySQL">MySQL</a></ul> 
   </li>
