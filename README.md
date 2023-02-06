@@ -6,8 +6,13 @@ Trabajo en equipo de la tarea evaluable Docker para despliegue.
 ## Enlaces a los Ejercicios Finalizados
 <ul>
   <li><a href="Ejercicio1/Diego">Ejercicio 1</a></li>
+  <li>
+  	<ul><a href="Ejercicio2/Portainer">Ejercicio 2 - Portainer</a></ul>
+    <ul><a href="Ejercicio2/MySQL">Ejercicio 2 - MySQL</a></ul> 
+  </li>
   <li><a href="Ejercicio3/">Ejercicio 3</a></li>
 </ul>
+
 
 
 ## Dia 1 Repartimos el trabajo
@@ -41,11 +46,21 @@ Trabajo en equipo de la tarea evaluable Docker para despliegue.
 
 
 
-### Dia 3. Mergeamos el Ejercicio3 a la rama principal y completamos el Issue.
+### Dia 3. Mergeamos el Ejercicio 3 a la rama principal y completamos el Issue.
 
 ![image-20230206174704680](./assets/image-20230206174704680.png)
 
 ![image-20230206174816974](./assets/image-20230206174816974.png)
+
+
+
+### Dia 3. Mergeamos el Ejercicio 2 a la rama principal y completamos el Issue.
+
+Decidimos hacer las 2 variantes del Ejercicio 2. Diego se ocupa de la parte de Portainer y Javi de la parte de MySQL.
+
+![image-20230206184527288](./assets/image-20230206184527288.png)
+
+![image-20230206184809759](./assets/image-20230206184809759.png)
 
 
 
