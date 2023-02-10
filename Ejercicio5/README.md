@@ -36,11 +36,19 @@
 
 - Pantallazo donde se vea la bajada de la imagen - por parte de otra persona del grupo - y la creación de un contenedor. 
 
-  
+  **JAVI**
+
+  Me descargo el contenedor nginx de Diego y lo ejecuto:
+
+  ![image-20230210091738441](./assets/image-20230210091738441.png)
+
+  ![image-20230210091831171](./assets/image-20230210091831171.png)
 
 - Pantallazo donde se ve el acceso al navegador con el sitio servido
 
+  Desde el navegador, entro en localhost y me funciona la página:
   
+  ![image-20230210091917296](./assets/image-20230210091917296.png)
 
 
 
