@@ -1,8 +1,6 @@
 # Ejercicio 4 - Docker Compose
 
-
-
-**Desplegar la aplicación cmatrix utilizando docker-compose.** 
+#### **Desplegar la aplicación cmatrix utilizando docker-compose.** 
 
 **Entregar los siguientes pantallazos y lo comandos empleados para resolver el ejercicio:** 
 
@@ -40,13 +38,27 @@ Una vez hecha la imagen y subida a nuestra DockerHub continuamos con el ejercici
 
 - **Pantallazo donde se vea el fichero *docker-compose.yaml*.** 
 
+  ![image-20230210085651423](./assets/image-20230210085651423.png)
+
+  Este es la ultima configuración probada, he probado con múltiples configuraciones y ninguna me muestra el efecto pese a que el contenedor está arrancado.
+
   
 
-- Pantallazo donde se vea la aplicación funcionando. 
+  ![image-20230210085843513](./assets/image-20230210085843513.png)
 
-- Se valorará conseguir el efecto **Greenrain**. 
+  
 
-- Explicar brevemente cómo funciona esta aplicación.
+- **Pantallazo donde se vea la aplicación funcionando.** 
 
+  Ejecutamos el comando:
 
+  ```
+  docker run -it cmatrix
+  ```
+
+  ![image-20230210090034844](./assets/image-20230210090034844.png)
+
+- **Explicar brevemente cómo funciona esta aplicación.**
+
+Esta aplicación es un programa que muestra una animación de caracteres al estilo "Matrix". Muestra una combinación de caracteres ASCII que puedes personalizar en diferentes colores y velocidad de caída.
 
