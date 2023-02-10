@@ -79,7 +79,9 @@ Decidimos hacer las 2 variantes del Ejercicio 2. Diego se ocupa de la parte de P
 
 ![image-20230210085810150](assets/image-20230210085810150.png)
 
-### Dia 4. Reunión Final para comprobar las imagenes creadas en el ejercicio 5 y todo funciona perfectamente.
+### Dia 4. Reunión Final para comprobar las imágenes creadas en el ejercicio 5 y todo funciona perfectamente.
+
+![image-20230210092847953](assets/image-20230210092847953.png)
 
 ### Dia 4. Final de Proyecto.
 
@@ -87,13 +89,12 @@ Decidimos hacer las 2 variantes del Ejercicio 2. Diego se ocupa de la parte de P
 
 ## Tiempo total de proyecto y observaciones
 
-
-
 - Tiempo estimado 8 horas ----- Tiempo real 7 horas.
 - Trabajando en  equipo trabajamos mas rápido y nos ayudamos a resolver problemas.
-- Teniendo un roadmap organizado desde el primer día ayuda a distribuir el trabajo y mejorar la productividad.
-
-
+- Teniendo un Roadmap organizado desde el primer día ayuda a distribuir el trabajo y mejorar la productividad.
+- Hemos aprendido a usar git en una situación que podría ser un caso real.
+- Nos hemos acostumbrado a reuniones diarias de sincronización de equipo(Scrum Daily Meeting).
+- Hemos cumplido con los plazos asignados en esta actividad, comprometidos desde el inicio del proyecto.
 
 
 
