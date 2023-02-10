@@ -11,6 +11,8 @@ Trabajo en equipo de la tarea evaluable Docker para despliegue.
     <ul><a href="Ejercicio2/MySQL">MySQL</a></ul> 
   </li>
   <li><a href="Ejercicio3/">Ejercicio 3</a></li>
+   <li><a href="Ejercicio4/">Ejercicio 4</a></li>
+    <li><a href="Ejercicio5/">Ejercicio5</a></li>
 </ul>
 
 
@@ -62,7 +64,13 @@ Decidimos hacer las 2 variantes del Ejercicio 2. Diego se ocupa de la parte de P
 
 ![image-20230206184809759](./assets/image-20230206184809759.png)
 
+### Dia 4. Decidimos dejar a un lado la ejecucion de cmatrix en docker-comnpose, no arranca y no nos sale rentable dedicarle mas tiempo.
 
+### Dia 4. Finalizamos los Ejercicios y Mergeamos.
+
+### Dia 4. Reunion Final para comprobar las imagenes creadas en el ejercicio 5 y todo funciona perfectamente.
+
+### Dia 4. Final de Proyecto.
 
 ### Autor: Diego Gutiérrez Pilar
 
