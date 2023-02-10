@@ -1,0 +1,7 @@
+version: '3'
+services:
+  cmatrix:
+    image: javiesca/cmatrix
+    command: cmatrix -C green
+    tty: true
+    stdin_open: true
